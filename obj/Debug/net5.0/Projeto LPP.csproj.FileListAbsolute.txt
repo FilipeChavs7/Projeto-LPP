@@ -1,0 +1,16 @@
+D:\Projeto LPP\bin\Debug\net5.0\Projeto LPP.exe
+D:\Projeto LPP\bin\Debug\net5.0\Projeto LPP.deps.json
+D:\Projeto LPP\bin\Debug\net5.0\Projeto LPP.runtimeconfig.json
+D:\Projeto LPP\bin\Debug\net5.0\Projeto LPP.runtimeconfig.dev.json
+D:\Projeto LPP\bin\Debug\net5.0\Projeto LPP.dll
+D:\Projeto LPP\bin\Debug\net5.0\ref\Projeto LPP.dll
+D:\Projeto LPP\bin\Debug\net5.0\Projeto LPP.pdb
+D:\Projeto LPP\obj\Debug\net5.0\Projeto LPP.csproj.AssemblyReference.cache
+D:\Projeto LPP\obj\Debug\net5.0\Projeto LPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto LPP\obj\Debug\net5.0\Projeto LPP.AssemblyInfoInputs.cache
+D:\Projeto LPP\obj\Debug\net5.0\Projeto LPP.AssemblyInfo.cs
+D:\Projeto LPP\obj\Debug\net5.0\Projeto LPP.csproj.CoreCompileInputs.cache
+D:\Projeto LPP\obj\Debug\net5.0\Projeto LPP.dll
+D:\Projeto LPP\obj\Debug\net5.0\ref\Projeto LPP.dll
+D:\Projeto LPP\obj\Debug\net5.0\Projeto LPP.pdb
+D:\Projeto LPP\obj\Debug\net5.0\Projeto LPP.genruntimeconfig.cache
